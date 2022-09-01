@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kian-o
-- 👀 I’m interested in ... Cybersecurity, Cloud environments, Kali Linux, Python
+- 👀 I’m interested in ... Cybersecurity, Cloud engineering, Kali Linux, Python, PowerShell
 - 🌱 I’m currently learning ... PowerShell/.NET & Python
 - 💞️ I’m looking to collaborate on ... coding in Python for data analytics and cybersecurity. 
 - 📫 How to reach me ... oreillym151@gmail.com
